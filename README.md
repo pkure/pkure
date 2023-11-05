@@ -4,18 +4,19 @@
 
 - <b>Azure Cloud Security Operations Center Project</b>
   - (https://github.com/pkure/Cloud-SOC-Project)
+
+- <b> Quote Generator Page</b>
+  - (https://github.com/pkure/quote_generator)
+
+
 <h2> Connect with me:</h2>
 
 LinkedIn: https://linkedin.com/in/peter-kure
 
-<!--
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on developing skills to use computers to making interesting things or eventually address needed problems in the world.
-- 🌱 I’m currently learning Cloud, Computer Science, 
-- 👯 I’m looking to collaborate on beginner-level coding projects, CTFs, or 
+- 🌱 I’m currently learning Cloud, Computer Science, Cyber Security
+- 👯 I’m looking to collaborate on beginner-level coding projects, CTFs, or security-related projects.
 - 🤔 I’m looking for help with developing Computer Science, Cloud, and Cyber Security technical skills.
-- 💬 Ask me about ...
 - 📫 How to reach me: LinkedIn
--->
+
