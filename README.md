@@ -1,25 +1,21 @@
-<h1>Hi, I'm Peter! <br/><a href="https://github.com/pkure">Programmer</a>, <a href="https://www.linkedin.com/in/pkure/">Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Peter! <br/><a href="https://github.com/pkure">Cyber Security Professional</a>, <a href="https://github.com/pkure">Computer Science Enthusiast, and <a href="https://github.com/pkure">Beginning Coder.</h1>
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Cyber Security / Coding Projects:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- <b>Azure Cloud Security Operations Center Project</b>
+  - (https://github.com/pkure/Cloud-SOC-Project)
+<h2> Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/peter-kure
+LinkedIn: https://linkedin.com/in/peter-kure
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on developing skills to use computers to making interesting things or eventually address needed problems in the world.
+- 🌱 I’m currently learning Cloud, Computer Science, 
+- 👯 I’m looking to collaborate on beginner-level coding projects, CTFs, or 
+- 🤔 I’m looking for help with developing Computer Science, Cloud, and Cyber Security technical skills.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: LinkedIn
 -->
