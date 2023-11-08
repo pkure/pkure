@@ -1,4 +1,4 @@
-<h1>Hi, I'm Peter! <br/><a href="https://github.com/pkure">Cyber Security Professional</a>, <a href="https://github.com/pkure">Computer Science Enthusiast, and <a href="https://github.com/pkure">Beginning Coder.</h1>
+<h1>Hi, I'm Peter! <br/><a href="https://github.com/pkure">Cyber Security Professional</a>, <a href="https://github.com/pkure"> and Computer Science Enthusiast</h1>
 
 <h2> Cyber Security / Coding Projects:</h2>
 
