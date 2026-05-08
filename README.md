@@ -24,6 +24,8 @@ This GitHub is where I publish hands-on security engineering projects, detection
 
 A multi-source SOC lab designed to simulate attacker behavior and build detections across host and network telemetry.
 
+https://github.com/pkure/Detection-Lab
+
 **Technologies:**  
 Splunk, Sysmon, Zeek, Snort, Windows, Linux, Microsoft Defender concepts, KQL/SPL, PowerShell, VirtualBox/Hyper-V
 
@@ -43,6 +45,8 @@ Splunk, Sysmon, Zeek, Snort, Windows, Linux, Microsoft Defender concepts, KQL/SP
 
 Experiments using local and cloud-assisted AI workflows to support security operations while keeping human review and control at the center.
 
+https://github.com/pkure/Bernstein---Agentic-AI-Detection-Orchestrator
+
 **Focus areas:**
 
 - Detection drafting and refinement
@@ -58,10 +62,27 @@ Experiments using local and cloud-assisted AI workflows to support security oper
 
 Cloud-based security lab work focused on collecting attacker telemetry, building dashboards, and practicing cloud-native detection workflows.
 
+https://github.com/pkure/Cloud-SOC-Project
+
 **Technologies:**  
 Azure, Microsoft Sentinel, Log Analytics, KQL, Azure VMs, Defender concepts
 
 ---
+
+---
+
+### Phish Click Detector Application
+
+A detection engineering project built in a home cybersecurity lab. This tool identifies when a user actually clicks a link from a suspicious email - even when no endpoint alert fired, no email gateway flagged it, and the domain had no negative reputation.
+
+https://github.com/pkure/Phish-Click-Detector-Application
+
+**Technologies:** 
+
+Python, Flask, SQLite+SQLAlchemy, dnsmasq, Zeek, Gmail API, VirusTotal, urlscan.io, Claude Code
+
+---
+
 
 ## Security Interests
 
