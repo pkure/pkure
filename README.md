@@ -69,8 +69,6 @@ Azure, Microsoft Sentinel, Log Analytics, KQL, Azure VMs, Defender concepts
 
 ---
 
----
-
 ### Phish Click Detector Application
 
 A detection engineering project built in a home cybersecurity lab. This tool identifies when a user actually clicks a link from a suspicious email - even when no endpoint alert fired, no email gateway flagged it, and the domain had no negative reputation.
